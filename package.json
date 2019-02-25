@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-menu",
+  "version": "1.0.0",
+  "description": "restaurant menu api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chougle-saud/restaurant-menu.git"
+  },
+  "keywords": [
+    "npm",
+    "restaurant",
+    "menu"
+  ],
+  "author": "Saud Chougle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chougle-saud/restaurant-menu/issues"
+  },
+  "homepage": "https://github.com/Chougle-saud/restaurant-menu#readme"
+}
