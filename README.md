@@ -7,3 +7,35 @@ Either through cloning with git or by using [npm](http://npmjs.org) (the recomme
 ```bash
 npm install restaurant-menu
 ```
+
+# Usage
+
+```bash
+   [
+      {
+        "name": "VEG SOUP",
+        "items": [
+          "Sweet Corn Soup",
+          "Manchow Soup",
+          "Clear Soup",
+          "Hot & Sour Soup",
+          "Cream of Tomato Soup",
+          "Veg Noodles Soup",
+          "Veg Lemon Coriander Soup"
+        ],
+        "price": [90, 100, 80, 100, 80, 100, 130]
+      }
+   ]
+```
+example:
+```bash
+
+   const menu = require("restaurant-menu");
+   
+   console.log(menu[0].name);   // it will return "VEG SOUP"
+   console.log(menu[0].items);  // it will reutrn [ 'Sweet Corn Soup','Manchow Soup','Clear Soup','Hot & Sour Soup','Cream of Tomato Soup','Veg Noodles Soup','Veg Lemon Coriander Soup' ]
+   console.log(menu[0].price);  // it will return [ 90, 100, 80, 100, 80, 100, 130 ]
+   
+   // similarly you can get remaining objects.
+   
+```
