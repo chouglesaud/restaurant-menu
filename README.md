@@ -9,7 +9,7 @@ npm install restaurant-menu
 ```
 
 # Usage
-
+example:
 ```bash
    [
       {
@@ -27,7 +27,7 @@ npm install restaurant-menu
       }
    ]
 ```
-example:
+
 ```bash
 
    const menu = require("restaurant-menu");
