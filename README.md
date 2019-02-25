@@ -1,4 +1,4 @@
-# restaurant-menu    ![npm](https://img.shields.io/npm/v/restaurant-menu.svg?label=restaurant-menu)
+# restaurant-menu    ![npm](https://img.shields.io/npm/v/restaurant-menu.svg)
 Basically it is restaurant menu api. It contain more than **300** items with its price               
 
 # Installation   
